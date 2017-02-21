@@ -1,0 +1,13 @@
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/entity/Fish.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/controllers/CoordinatesController.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/controllers/AddController.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/IPlacesDAO.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/FishDAOImpl.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/PlacesDAOImpl.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/services/PlaceService.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/entity/Place.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/IFishInPlaceDAO.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/entity/FishInPlace.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/services/PlaceServiceImpl.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/IFishDAO.java
+/home/kushylun/Downloads/FishPlaces/FishPlaces/src/main/java/ua/com/codefire/dao/FishInPlacesDAOImpl.java

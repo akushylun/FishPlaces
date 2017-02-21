@@ -1,0 +1,13 @@
+ua/com/codefire/dao/FishInPlacesDAOImpl.class
+ua/com/codefire/dao/entity/Fish.class
+ua/com/codefire/dao/IFishDAO.class
+ua/com/codefire/dao/IPlacesDAO.class
+ua/com/codefire/services/PlaceService.class
+ua/com/codefire/dao/FishDAOImpl.class
+ua/com/codefire/dao/entity/FishInPlace.class
+ua/com/codefire/controllers/CoordinatesController.class
+ua/com/codefire/controllers/AddController.class
+ua/com/codefire/services/PlaceServiceImpl.class
+ua/com/codefire/dao/entity/Place.class
+ua/com/codefire/dao/PlacesDAOImpl.class
+ua/com/codefire/dao/IFishInPlaceDAO.class
